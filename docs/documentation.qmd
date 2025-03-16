@@ -1,0 +1,26 @@
+<div>
+
+---
+title: "activity-3" 
+author: "Miley Thompson" 
+format: html 
+editor: visual 
+---
+
+</div>
+
+<h1>Data description</h1>
+
+this is data used in the 2023 study "The Effect of Screentime on the Mental Health of Children" bu Natalie Wong. It describes screentime use in children and whether they needed and recieved mental health treatment. <https://doi.org/10.7910/DVN/1WWCA5>
+
+<h1>step 4</h1>
+
+metadata was added using dataspice.
+
+![](images/clipboard-541732872.png)
+
+![](images/clipboard-608430602.png)
+
+![](images/clipboard-2569333588.png)
+
+![](images/clipboard-3188440883.png)
